@@ -1,2 +1,6 @@
 git init
 git branch -M main
+
+git add . 
+git commit -m "메시지"
+git push -u repo주소 브랜치명
